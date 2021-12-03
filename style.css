@@ -3,6 +3,7 @@
 }
 body {
     background-color: #0099ff;
+    background-image: url(images/jokenpo.jpg);
 }
 .container {
     opacity: 0.75;
