@@ -1,0 +1,32 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: #0099ff;
+    background-image: url(images/jokenpo.jpg);
+}
+.container {
+    opacity: 0.75;
+}
+h1 {
+    color:darkblue;
+}
+h2 {
+    color:red;
+}
+h3 {
+    color: green;
+}
+p, li {
+    font-size: medium;
+}
+img {
+    width: 500px;
+    height:auto;
+}
+h1, h2, h3, a {
+    text-align: center;
+}
+nav {
+    display: block;
+}
